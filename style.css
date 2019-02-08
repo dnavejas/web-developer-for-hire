@@ -22,12 +22,25 @@
 #toptext {
 	text-align: center;
 	width: 100%;
+	margin-bottom: 0px;
 	}
 #profile{
 	width: 100px;
 	height: 100px;
 	}
 #computer {
-	width: 300px;
+	width: 500px;
 	height: 300px;
+	margin-bottom: 0px;
+	position:relative;
+	bottom:-4px;
 }
+#bluebox {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	padding: 100px 405px 150px;
+	margin-top: 0px;
+	border-style: solid;
+	border-color: blue;
+	}
