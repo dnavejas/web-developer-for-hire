@@ -40,7 +40,7 @@ p {
 	position:relative;
 	bottom:-4px;
 }
-#purplebox {
+.purplebox {
 	background-color: #8257f2;
 	color: white;
 	text-align: center;
@@ -48,6 +48,7 @@ p {
 	margin-top: 0px;
 	border-style: solid;
 	border-color: #8257f2;
+	position: relative;
 	}
 .row:after {
 	content:"";
@@ -59,12 +60,17 @@ p {
 }
 .column{
 	float: left;
-	width:33%;
+	width:20%;
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	border-radius: 5px;
+	border-top: none;
 }
-#purpletext{
+.purpletext{
 	color:#8257f2;
 }
-#boldfont{
+.boldfont{
 	font-weight: bold;
 	font-size: 14pt;
 }
