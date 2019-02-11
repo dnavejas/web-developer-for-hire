@@ -18,11 +18,11 @@ div {
 	}
 .hellobutton {
 	border-style: solid;
-	border-color: #8257F2;
+	border-color: rgb(140,85,247);
 	border-radius: 40px;
 	border-width: 1px;
 	display: inline-block;
-	color: #8257f2;
+	color: rgb(140,85,247);
 	padding: 0px 20px;
 	line-height: 50px;
 	margin: 0px;
@@ -45,13 +45,13 @@ div {
 	bottom:-4px;
 }
 .purplebox {
-	background-color: #8257f2;
+	background-color: #8C55F7;
 	color: white;
 	text-align: center;
 	padding: 100px 405px 150px;
 	margin-top: 0px;
 	border-style: solid;
-	border-color: #8257f2;
+	border-color: rgb(140,85,247);
 	position: relative;
 	}
 .row:after {
@@ -73,7 +73,7 @@ div {
 	align-content: center;
 }
 .purpletext{
-	color:#8257f2;
+	color:rgb(140,85,247);
 }
 .boldfont{
 	font-weight: bold;
@@ -100,7 +100,7 @@ div {
 	border-color: #D3D3D3;
 }
 .purplelink{
-	color: #8257f2;
+	color: rgb(140,85,247);
 	text-decoration: none;
 }
 #blackbox {
@@ -108,5 +108,17 @@ div {
 	color: white;
 	border-style: solid;
 	border-color: #474747;
-	border border-radius: 5px;
+	border-radius: 10px;
+	width: 80%;
+	padding: 40px;
 }
+.lastbutton {
+	border-style: solid;
+	border-color: #7E52EF;
+	border-radius: 10px;
+	border-width: 1px;
+	display: inline-block;
+	padding: 0px 0px;
+	line-height: 16px;
+	margin: 0px;
+	}
