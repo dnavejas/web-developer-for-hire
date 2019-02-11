@@ -66,6 +66,7 @@ p {
 	border-width: 1px;
 	border-radius: 5px;
 	border-top: none;
+	align-content: center;
 }
 .purpletext{
 	color:#8257f2;
