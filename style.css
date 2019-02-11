@@ -90,3 +90,11 @@ div {
 	margin-left: auto;
 	margin-right: auto;
 }
+.projectdivs {
+	width: 270px; 
+	height: 301px;
+}
+.purplelink{
+	color: #8257f2;
+	text-decoration: none;
+}
