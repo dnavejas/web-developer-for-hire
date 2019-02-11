@@ -49,7 +49,7 @@ div {
 	background-color: #8C55F7;
 	color: white;
 	text-align: center;
-	padding: 100px 405px 150px;
+	padding: 100px 405px 200px;
 	margin-top: 0px;
 	border-style: solid;
 	border-color: rgb(140,85,247);
@@ -94,13 +94,14 @@ div {
 }
 .projectdivs {
 	width: 270px; 
-	height: 301px;
+	height: 250px;
 	background-color: white;
 	border-style: solid;
 	border-width: 1px;
 	border-radius: 5px;
 	border-color: #D3D3D3;
 	box-shadow: 0 4px 2px -2px gray;
+	padding:20px;
 }
 .purplelink{
 	color: rgb(140,85,247);
