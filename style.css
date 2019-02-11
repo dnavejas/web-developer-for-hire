@@ -66,7 +66,7 @@ div {
 	float: left;
 	width: 20%;
 	border-style: solid;
-	border-color: grey;
+	border-color: #D3D3D3;
 	border-width: 1px;
 	border-radius: 5px;
 	border-top: none;
@@ -93,8 +93,20 @@ div {
 .projectdivs {
 	width: 270px; 
 	height: 301px;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: #D3D3D3;
 }
 .purplelink{
 	color: #8257f2;
 	text-decoration: none;
+}
+#blackbox {
+	background-color: #474747;
+	color: white;
+	border-style: solid;
+	border-color: #474747;
+	border border-radius: 5px;
 }
